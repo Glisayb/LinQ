@@ -13,3 +13,4 @@
 /Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.pdb
 /Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.genruntimeconfig.cache
 /Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/ref/LinqTutorials.dll
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.sourcelink.json
