@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K/yySi0iss6JfIRpKmw0a34u9N95tBJNOha6/MzjpfxrHgevQZB0maIQomXVCwdJTLvewKIzztGlFf6T1QWhpA==",
+  "success": true,
+  "projectFilePath": "/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "/Users/bonku/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/bonku/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/bonku/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

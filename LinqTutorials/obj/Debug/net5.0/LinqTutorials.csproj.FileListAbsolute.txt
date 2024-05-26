@@ -1,0 +1,15 @@
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.deps.json
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.json
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.dev.json
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.dll
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.pdb
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfo.cs
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.dll
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/refint/LinqTutorials.dll
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.pdb
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.genruntimeconfig.cache
+/Users/bonku/Downloads/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/ref/LinqTutorials.dll
